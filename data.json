@@ -1,0 +1,135 @@
+{
+    "name": "Olga Nedelcu",
+    "location": "Berlin, Germany",
+    "email": "olganedelcuam@gmail.com",
+    "phone": "+49 1515 8802397",
+    "linkedIn": "https://www.linkedin.com/in/olganedelcu/",
+    "github": "https://github.com/olganedelcu",
+    "website": "https://olga-nedelcu-portfolio.vercel.app/",
+    "picture": "https://avatars.githubusercontent.com/u/33576634?v=4",
+    "technical_tooling": {
+      "tooling": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "Cypress",
+        "Jest",
+        "AWS",
+        "Azure Cloud",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "Git",
+        "GitLab",
+        "Google OAuth",
+        "Webpack",
+        "JSON",
+        "C++",
+        "Figma",
+        "Lighthouse",
+        "Babel",
+        "Postman",
+        "NPM",
+        "Storybook",
+        "Agile (Scrum)",
+        "CI/CD pipelines",
+        "DevOps practices"
+      ]
+    },
+    "work_experience": [
+      {
+        "position": "Software Engineer",
+        "company": "Industrial Analytics",
+        "link": "https://industrial-analytics.io/",
+        "location": "Berlin, Germany",
+        "start_date": "April 2023",
+        "end_date": "Present",
+        "responsibilities": [
+          "Developed and implemented AWS pipelines, integrating bash scripting for automated deployments, reducing deployment time by 40%.",
+          "Spearheaded the setup of a documentation server and knowledge sharing page and implemented TypeScript for type-safe development, improving code quality and maintainability.",
+          "Conducted unit testing with JEST and integration testing with Cypress, ensuring robustness and reliability of internal applications.",
+          "Improved frontend performance by 25% through optimization using Figma for design, Lighthouse for performance, and SVG for graphics.",
+          "Enhanced security with Google OAuth integration, ensuring seamless and secure user authentication.",
+          "Conducted rigorous testing and debugging with Postman, ensuring robust integration between frontend and backend systems.",
+          "Implemented CI/CD pipelines using Docker and GitLab, automating build, test, and deployment processes."
+        ]
+      },
+      {
+        "position": "Tech Management Assistant",
+        "company": "Solarisbank AG",
+        "link": "https://www.solarisgroup.com/en/",
+        "location": "Berlin, Germany",
+        "start_date": "April 2022",
+        "end_date": "August 2022",
+        "responsibilities": [
+          "Reduced debugging time by 50% by implementing PageDuty for developers, improving incident response and resolution.",
+          "Managed Jira and Confluence for streamlined documentation and project management, maintaining alignment on OKRs across the tech team.",
+          "Monitored OKR progress monthly with CTO and tech leadership, ensuring goals were met on schedule.",
+          "Contributed to tech initiatives, including enhancing backend services and integrating banking APIs for improved service delivery.",
+          "Led data engineering tasks, optimizing data cleaning, processing, and storage for improved efficiency and scalability.",
+          "Implemented Agile methodologies for project management, enhancing team collaboration and productivity."
+        ]
+      },
+      {
+        "position": "Junior Frontend Developer",
+        "company": "theSeniorDev",
+        "link": "https://www.theseniordev.com/",
+        "location": "Berlin, Germany",
+        "start_date": "June 2021",
+        "end_date": "January 2022",
+        "responsibilities": [
+          "Integrated Payfunnels for seamless payment processing, increasing customer satisfaction by 76% with improved billing system usability.",
+          "Boosted agency website click-through rate by 18% within 30 days through SEO optimization and responsive web design practices.",
+          "Utilized Lighthouse and Sentry for performance monitoring, identifying and resolving performance bottlenecks proactively.",
+          "Developed and maintained web interfaces using JavaScript, React.js, HTML/CSS, Bootstrap, and jQuery.",
+          "Ensured pixel-perfect UI/UX design feasibility using Figma, aligning technical implementation with design specifications.",
+          "Engaged in Agile practices including code reviews, pair programming, and sprint planning, fostering collaborative development."
+        ]
+      }
+    ],
+    "education_and_certifications": [
+      {
+        "degree": "Bachelor of Applied Mathematics and Computing",
+        "institution": "Charles III University of Madrid",
+        "location": "Madrid, Spain",
+        "start_date": "2019",
+        "end_date": "2021"
+      },
+      {
+        "degree": "Mentoring",
+        "institution": "Technovation Girls - Girls for Change",
+        "location": "Madrid, Spain",
+        "start_date": "2019",
+        "end_date": "2021",
+        "description": "Developed and coordinated a 15-week program empowering women students to create and deliver a web app using MIT App Inventor."
+      }
+    ],
+    "side_projects": [
+      {
+        "project_name": "Personal Portfolio",
+        "description": "Using Netlify and Vercel for deployment and React.js for development."
+      },
+      {
+        "project_name": "Tech Voices Podcast",
+        "description": "Co-hosting Tech Voices, a podcast featuring discussions with CTOs and tech leaders to promote transparency and insights into industry trends and innovations."
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Professional Proficiency"
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "Native Proficiency"
+      },
+      {
+        "language": "Romanian",
+        "proficiency": "Native Proficiency"
+      },
+      {
+        "language": "German",
+        "proficiency": "Basic Proficiency (A2)"
+      }
+    ]
+  }
